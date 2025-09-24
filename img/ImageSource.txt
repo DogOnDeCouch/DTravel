@@ -1,0 +1,57 @@
+Images were obtain free and royalty free on: https://www.pexels.com
+Thank you to all the original owners, for providing beautiful free and rotalty free images.
+
+"Background"
+filename = Background.jpg
+Owner = Michael Spadoni
+imageUrl = https://www.pexels.com/photo/green-forested-mountain-range-under-blue-sky-with-clouds-813465/
+
+"Sydney, Australia",
+filename = Sydney.jpg
+Owner = Max Ravier
+imageUrl = https://www.pexels.com/photo/city-skyline-on-a-daybreak-3331062/
+
+"Melbourne, Australia"
+filename = Melbourne.jpg
+Owner = Lukas Kloeppel
+imageUrl = https://www.pexels.com/photo/city-of-melbourne-during-sunset-7777639/
+
+"Tokyo, Japan"
+filename = Tokyo.jpg
+Owner = Aleksandar Pasaric
+imageUrl = https://www.pexels.com/photo/people-walking-on-the-street-2506923/
+
+"Kyoto, Japan"
+filename = Kyoto.jpg
+Owner = Belle Co
+imageUrl = https://www.pexels.com/photo/red-and-black-temple-surrounded-by-trees-photo-402028/
+
+"Rio de Janeiro, Brazil"
+filename = Rio.jpg
+Owner = Aline Cardoso
+imageUrl = https://www.pexels.com/photo/black-and-white-cable-car-2876407/
+
+"São Paulo, Brazil"
+filename = Sao-Paulo.jpg
+Owner = Kaique Rocha
+imageUrl = https://www.pexels.com/photo/cars-traveling-on-road-between-buildings-during-nighttime-65781/
+
+"Angkor Wat, Cambodia",
+filename = Angkor-Wat.jpg
+Owner = Serg Alesenko
+imageUrl = https://www.pexels.com/photo/panoramic-view-of-the-angkor-wat-siem-reap-cambodia-15890550/
+
+"Taj Mahal, India",
+filename = Taj-Mahal.jpg
+Owner = Maahid Photos
+imageUrl = https://www.pexels.com/photo/taj-mahal-under-blue-sky-3881104/
+
+"Bora Bora, French Polynesia"
+filename = Bora-Bora.jpg
+Owner = Vincent Gerbouin
+imageUrl = https://www.pexels.com/photo/an-island-with-cottages-and-beach-chairs-1174732/
+
+"Copacabana Beach, Brazil"
+filename = Copacabana.jpg
+Owner = Gabrielle Meschini
+imageUrl = https://www.pexels.com/photo/beach-umbrella-and-chair-on-copacabana-beach-on-seashore-in-rio-de-janeiro-26076624/
