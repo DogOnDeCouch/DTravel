@@ -66,23 +66,23 @@ footer a {
     display: flex;
     align-items: center;
     background-color: white;
-    border-radius: 50px; /* Creates the pill shape */
-    border: 1px solid #e0e0e0; /* Subtle light grey border */
-    overflow: hidden; /* Clips the button corners to fit the pill shape */
-    padding-left: 20px; /* Adds space for the text input */
+    border-radius: 50px;
+    border: 1px solid #e0e0e0;
+    overflow: hidden;
+    padding-left: 20px;
     position: relative;
 }
 
 .navbar-right input {
     border: none;
-    outline: none; /* Removes the blue ring on focus */
+    outline: none;
     width: 100%;
     height: 45px;
     background: transparent;
     font-size: 1em;
     color: #333;
 position: relative;
-    flex-grow: 1; /* Allows the input to take up the available space */
+    flex-grow: 1;
 }
 
 .navbar-right input::placeholder {
@@ -91,14 +91,13 @@ position: relative;
 
 .navbar-right  .btn {
     border: none;
-    height: 48px; /* Match the wrapper height */
+    height: 48px;
     padding: 0 25px;
     color: white;
-    background-color: #0d9488; /* Dark teal color */
+    background-color: #0d9488;
     cursor: pointer;
     font-weight: bold;
     font-size: 1em;
-    /* Remove individual border-radius as the wrapper handles it */
     border-radius: 25px; 
 }
 
@@ -107,7 +106,7 @@ position: relative;
 }
 
 .navbar-right  .btn:hover {
-    background-color: #0f766e; /* Slightly darker on hover */
+    background-color: #0f766e;
 }
 
 
@@ -124,28 +123,26 @@ position: relative;
 }
 
 .logo-sidebar ul {
-  list-style-type: none; /* This removes the bullet points */
-  padding: 0;            /* This removes the default list indentation */
-  margin: 0;             /* Removes default margin */
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 
 .logo-sidebar img {
-  /* This ensures the transition is smooth */
   transition: transform 0.3s ease-in-out;
-  cursor: pointer; /* Changes the cursor to a pointer on hover */
+  cursor: pointer;
 }
 
 .logo-sidebar img:hover {
-  /* Scale the image up to 110% of its size */
   transform: scale(2.1);
 }
 
 .logo-sidebar {
-  position: fixed;  /* Takes the element out of the normal flow and fixes it to the viewport */
-  bottom: 20px;     /* Positions it 20px from the bottom */
-  left: 20px;       /* Positions it 20px from the left */
-  width: auto;      /* Let the width be determined by its content */
+  position: fixed;
+  bottom: 20px;
+  left: 20px;  
+  width: auto;
 }
 
 
@@ -168,7 +165,7 @@ position: relative;
 /*           About Us Page Styling             */
 
 .aboutsection {
-  flex: 1; /* This makes the about section take up the remaining available space */
+  flex: 1;
   padding: 20px;
 }
 
@@ -210,32 +207,25 @@ position: relative;
 
 
 .team-element img {
-  /* This ensures the transition is smooth */
   transition: transform 0.3s ease-in-out;
-  cursor: pointer; /* Changes the cursor to a pointer on hover */
+  cursor: pointer;
 }
 
 .team-element img:hover {
-  /* Scale the image up to 110% of its size */
   transform: scale(1.1);
 }
 
 /*           Contact Us Page Styling             */
 
-
 .contactuslayout{
-
 }
-
-
-
 
 /*           Search and recommendation Styling             */
 .recommendation-card {
     display: flex;
     align-items: center;
     gap: 15px;
-    background-color: rgba(15, 23, 42, 0.6); /* Semi-transparent dark blue */
+    background-color: rgba(15, 23, 42, 0.6);
     padding: 20px;
     border-radius: 10px;
     flex-grow: 1;
@@ -247,27 +237,3 @@ position: relative;
     width: 60px;
     height: 60px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
